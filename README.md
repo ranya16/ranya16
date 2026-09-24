@@ -1,16 +1,17 @@
-## Hi there 👋
+### Hi, I'm Riyhan 👋 🇩🇿
+*16 y/o from Blida, Algeria | Future AI Engineer*
 
-<!--
-**ranya16/ranya16** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm a high school student passionate about Math & AI. My dream is to study Artificial Intelligence in the UK.
 
-Here are some ideas to get you started:
+#### 🚀 Featured Project
+- **[Grade Predictor AI](https://github.com/ranya16/grade-predictor-ai-)** - My first AI model using Python & Scikit-Learn that predicts student grades.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+#### 🛠️ Skills
+`Python` `Machine Learning` `Mathematics` `Problem Solving`
+
+#### 🎯 My 2026 Goals
+- Build 5 AI projects for my portfolio
+- Get a UK Scholarship for AI
+- Inspire girls in Algeria to code
+
+> "From Blida to the World with AI" ✨
