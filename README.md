@@ -13,3 +13,5 @@ I'm a high school student passionate about Math & AI. My dream is to study Artif
 - Build 5 AI projects for my portfolio
 - Get a UK Scholarship for AI
 - Inspire girls in Algeria to code
+## History
+First written in 2021 for my classmates. Uploaded to GitHub in September 2026.
